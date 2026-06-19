@@ -83,17 +83,19 @@ Both projects use CNN architectures consisting of:
 - Fully connected layers for classification
 
 ---
-
+~~~
 ## Project Structure
+Handwritten-CNN/
+│
 ├── handwritten-digit-recognition/
-│ └── Handwritten_Digit_CNN.ipynb
+│   └── Handwritten_Digit_CNN.ipynb
 │
 ├── handwritten-character-recognition/
-│ └── Handwritten_Character_CNN.ipynb
+│   └── Handwritten_Character_CNN.ipynb
 │
 └── README.md
 
-
+~~~
 ---
 
 ## Learning Outcomes
