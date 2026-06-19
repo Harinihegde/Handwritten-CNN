@@ -84,7 +84,7 @@ Both projects use CNN architectures consisting of:
 
 ---
 ~~~
-## Project Structure
+Project Structure
 Handwritten-CNN/
 │
 ├── handwritten-digit-recognition/
